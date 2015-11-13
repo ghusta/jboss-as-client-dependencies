@@ -10,7 +10,7 @@
 
     <properties>
 
-        <jboss-as-client-bom.version>7.1.1.Final</jboss-as-client-bom.version>
+        <jboss-as-client-bom.version>7.1.3.Final</jboss-as-client-bom.version>
 
     </properties>
 
